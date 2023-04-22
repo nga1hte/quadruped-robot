@@ -2,6 +2,14 @@
 
 This is quadruped robot that is an iteration of minikame robot in thingiverse. 
 
+### Schematic Diagram
+
+![schematic](https://ngaih.tech/images/quadruped/schematic.jpg)
+
+### Body with Servos
+
+![bodyServos](https://ngaih.tech/images/quadruped/servos_3dprint.jpg)
+
 ### Electronics used
 
 - Arduino Nano

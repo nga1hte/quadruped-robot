@@ -2,6 +2,8 @@
 
 This is quadruped robot that is an iteration of minikame robot in thingiverse. 
 
+![quadruped](https://ngaih.tech/images/quadruped/minikame.jpg)
+
 ### Schematic Diagram
 
 ![schematic](https://ngaih.tech/images/quadruped/schematic.jpg)

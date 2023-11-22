@@ -4,15 +4,15 @@ This is quadruped robot that is an iteration of minikame robot in thingiverse.
 
 ![youtube](https://youtu.be/c75QJV_rEnw)
 
-![quadruped](https://ngaih.tech/images/quadruped/miniKame.jpg)
+![quadruped](https://ngaih.com/images/quadruped/miniKame.jpg)
 
 ### Schematic Diagram
 
-![schematic](https://ngaih.tech/images/quadruped/schematic.jpg)
+![schematic](https://ngaih.com/images/quadruped/schematic.jpg)
 
 ### Body with Servos
 
-![bodyServos](https://ngaih.tech/images/quadruped/servos_3dprint.jpg)
+![bodyServos](https://ngaih.com/images/quadruped/servos_3dprint.jpg)
 
 ### Electronics used
 
